@@ -27,3 +27,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+
+*.log
+build/
+node_modules/
+.idea/
+my_notes.txt
